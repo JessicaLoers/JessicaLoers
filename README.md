@@ -6,7 +6,7 @@ My name is Jessica and I'm a ...
 - 👵 Design Senior 
 - 🌳 Media Artist by nature 
 
-I'm currently working as a web development at [neue fische](https://www.neuefische.de/)
+I'm currently working as a web development coach at [neue fische](https://www.neuefische.de/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaloers)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaloers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
