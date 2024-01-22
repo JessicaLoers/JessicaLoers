@@ -2,7 +2,7 @@
 # Hey there ✌️
 
 My name is Jessica and I'm a ...
-- 👩‍🏫 Coach Web Development 
+- 👩‍🏫 Web Development Coach 
 - 👵 Design Senior 
 - 🌳 Media Artist by nature 
 
