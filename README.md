@@ -1,26 +1,6 @@
 
-# Hey there ✌️
+# Hey, I'm Jessica! ✌️
 
-My name is Jessica and I'm a ...
-- 👩‍🏫 Web Development Coach 
-- 👵 Design Senior 
-- 🌳 Media Artist by nature 
+I'm a **Web Development Coach**, **Designer**, and a **Media Artist by nature**, based in Germany. My work combines creativity, technology, and teaching to inspire others.  
 
-I'm currently working as a web development coach at [neue fische](https://www.neuefische.de/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicaloers&theme=github_dark&show)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaloers&layout=compact&theme=github_dark&show)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**JessicaLoers/JessicaLoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m helping aspiring developers build their skills and confidence in full-stack web technologies as a coach at [neue fische](https://www.neuefische.de/).  
