@@ -1,6 +1,10 @@
+# Hey, I'm Jessica 👋
 
-# Hey, I'm Jessica! ✌️
+I'm a Technical Product Lead & Web Developer based in Germany.
 
-I'm a **Web Development Coach**, **Designer**, and a **Media Artist by nature**, based in Germany. My work combines creativity, technology, and teaching to inspire others.  
+I design and build structured digital systems — combining strategy, architecture and hands-on development.  
+My background spans design, web engineering and civic tech initiatives in the public sector.
 
-Currently, I’m helping aspiring developers build their skills and confidence in full-stack web technologies as a coach at [neue fische](https://www.neuefische.de/).  
+Previously, I worked as a Web Development Coach and Team Lead at [neue fische](https://www.neuefische.de/), supporting aspiring developers in building full-stack skills and technical confidence.
+
+I care about clean architecture, thoughtful UX and translating complexity into usable digital products.
