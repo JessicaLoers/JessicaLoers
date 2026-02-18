@@ -1,6 +1,6 @@
 # Hey, I'm Jessica 👋
 
-I'm a Technical Product Lead & Web Developer based in Germany.
+I'm a Web Developer & Technical Product Lead based in Germany.
 
 I design and build structured digital systems, combining strategy, architecture and hands-on development.  
 My background spans design, web engineering and civic tech initiatives in the public sector.
